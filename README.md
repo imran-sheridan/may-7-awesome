@@ -3,3 +3,7 @@
 HELLO WORLD, AWESOME
 
 I HAVE ADDED FEW MORE TO IT
+
+## INSTRUCTIONS
+
+Run python hello.py
